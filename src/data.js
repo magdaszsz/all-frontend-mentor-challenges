@@ -1,5 +1,13 @@
 const info = [
   {
+    title: "Bookmark",
+    technologies: ["HTML", "CSS", "JS"],
+    image: `${process.env.PUBLIC_URL}/images/bookmark.jpg`,
+    liveLink:
+      "https://bookmark-page-front-end-mentor-fffrrg4vp-magdaszsz.vercel.app/",
+    repoLink: "https://github.com/magdaszsz/BookmarkPage-FrontEndMentor",
+  },
+  {
     title: "Manage",
     technologies: ["HTML", "CSS", "JS"],
     image: `${process.env.PUBLIC_URL}/images/managa.jpg`,
@@ -59,13 +67,6 @@ const info = [
     liveLink: "https://magdaszsz.github.io/Social-proof-FrontEndMentor/",
     repoLink: "https://github.com/magdaszsz/Social-proof-FrontEndMentor",
   },
-  // {
-  //   title: "Bookmark",
-  //   technologies: ["HTML", "CSS", "JS"],
-  //   image: `${process.env.PUBLIC_URL}/images/desktop-preview.jpg`,
-  //   liveLink:
-  //   repoLink: "https://github.com/magdaszsz/Price-Grid-FrontEndMentor"
-  // },
   {
     title: "Testimonials",
     technologies: ["HTML", "CSS"],
